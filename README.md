@@ -1,4 +1,4 @@
-# 📝 Nestle Notes (A Notes making app - The front-end Developer Assignment)
+# 📝 Nestle Notes (A Notes making app - The front-end Developer's Assignment)
 It is a **React.js-based Notes App** implemented with **Redux Toolkit for state management** and **Tailwind CSS for styling**.  
 The app enables users to **add, edit, delete, filter, and search notes** with a modern UI design.
 
