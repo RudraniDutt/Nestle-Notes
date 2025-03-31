@@ -1,4 +1,4 @@
-# 📝 Notes App (The front-end Developer Assignment)
+# 📝 Nestle Notes (A Notes making app - The front-end Developer Assignment)
 It is a **React.js-based Notes App** implemented with **Redux Toolkit for state management** and **Tailwind CSS for styling**.  
 The app enables users to **add, edit, delete, filter, and search notes** with a modern UI design.
 
@@ -48,7 +48,7 @@ The app enables users to **add, edit, delete, filter, and search notes** with a 
 
 
 ##  Major Project Structure 
-📦 Notes-App
+📦 Nestle Notes
 ┣ 📂 node_modules
 ┣ 📂 public
 ┣ 📂 src
@@ -72,8 +72,8 @@ The app enables users to **add, edit, delete, filter, and search notes** with a 
 ##  Installation and Setup  
 
 ### 1️. Clone the Repository
-       git clone https://github.com/RudraniDutt/Notes-app.git
-       cd Notes-app
+       git clone https://github.com/RudraniDutt/Nestle-Notes.git
+       cd Nestle-Notes
 
 ### 2️. Install Dependencies
        npm install
